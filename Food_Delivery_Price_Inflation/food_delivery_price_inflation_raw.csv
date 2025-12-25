@@ -1,0 +1,17 @@
+Restaurant Name,Food Item,Dine-in Price (?),App Price (?),Discount Shown (%),Delivery Platform,City,Cuisine Type
+Domino’s,Margherita Pizza,199,249,20,Zomato,Bangalore,Italian
+Domino’s,Farmhouse Pizza,299,349,25,Swiggy,Bangalore,Italian
+McDonald’s,Veg McAloo Tikki Burger,55,75,10,Zomato,Delhi,Fast Food
+McDonald’s,McChicken Burger,125,150,15,Swiggy,Mumbai,Fast Food
+KFC,Chicken Zinger Burger,199,229,20,Zomato,Chennai,Fast Food
+KFC,Chicken Popcorn,179,209,10,Swiggy,Hyderabad,Fast Food
+Paradise Biryani,Chicken Biryani,299,349,30,Zomato,Hyderabad,Indian
+Paradise Biryani,Mutton Biryani,399,469,25,Swiggy,Hyderabad,Indian
+Haldiram’s,Raj Kachori,120,150,10,Zomato,Delhi,Street Food
+Haldiram’s,Chole Bhature,180,210,15,Swiggy,Delhi,North Indian
+Barbeque Nation,Veg Buffet,699,799,20,Zomato,Bangalore,Barbecue
+Barbeque Nation,Non-Veg Buffet,899,999,25,Swiggy,Pune,Barbecue
+Subway,Veggie Delight,180,210,15,Zomato,Mumbai,Healthy
+Subway,Chicken Teriyaki,260,310,20,Swiggy,Bangalore,Healthy
+Biryani Blues,Chicken Biryani,280,330,20,Zomato,Noida,Indian
+Biryani Blues,Veg Biryani,230,280,15,Swiggy,Gurgaon,Indian
