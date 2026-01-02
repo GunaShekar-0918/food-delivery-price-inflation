@@ -1,0 +1,13 @@
+Task 3 – Dashboard Insights
+
+1. The KPI shows that customers pay an average of ₹47–₹50 extra per food item.
+2. Swiggy shows slightly higher inflation compared to Zomato.
+3. Barbecue and Indian cuisines show the highest inflation.
+4. Certain cities like Pune and Bangalore show higher inflation.
+5. Discounts displayed often do not reduce the final payable amount.
+
+Conclusion:
+Food delivery apps inflate prices compared to dine-in prices.
+
+Recommendation:
+Customers should compare dine-in and app prices before ordering food online.
