@@ -1,0 +1,34 @@
+Task 4 – Storytelling & Business Recommendations
+
+Problem Statement:
+Food delivery apps provide convenience, but customers often feel that prices on delivery platforms are higher than dine-in prices.
+This project analyzes food delivery price inflation to understand pricing differences and the real impact of discounts.
+
+
+Key Insights:
+1. App prices are consistently higher than dine-in prices for most food items.
+2. Even when discounts are displayed, the final app price often remains higher.
+3. Swiggy shows slightly higher average price inflation compared to Zomato.
+4. Barbecue and Indian cuisines experience the highest price inflation.
+5. Some cities show significantly higher inflation than others.
+
+
+Business Impact:
+Customers may unknowingly spend more money when ordering food online.
+Regular usage of food delivery apps can increase monthly food expenses.
+Price inflation and misleading discounts can reduce customer trust over time.
+
+
+Recommendations:
+1. Customers should compare dine-in and app prices before ordering.
+2. Food delivery platforms should improve transparency in pricing.
+3. Restaurants can clearly communicate price differences between dine-in and delivery.
+4. Platforms should offer genuine discounts instead of inflating base prices.
+
+
+Conclusion:
+The analysis confirms that food delivery platforms often inflate prices compared to dine-in rates.
+This project demonstrates how data analytics and visualization can uncover hidden pricing patterns and support informed decision-making.
+
+
+
