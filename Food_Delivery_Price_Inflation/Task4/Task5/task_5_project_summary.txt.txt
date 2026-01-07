@@ -1,0 +1,35 @@
+
+Task 5 – Project Summary & Reflection
+
+Project Overview:
+The Food Delivery Price Inflation project analyzes the difference between dine-in prices and food delivery app prices.
+The goal of this project was to identify pricing inflation, evaluate the effectiveness of discounts, and present insights using data analytics and visualization.
+
+
+Tools & Technologies Used:
+- Python (Pandas)
+- Power BI
+- Git & GitHub
+- Data Cleaning & EDA
+- Data Visualization & Storytelling
+
+
+Key Learnings:
+1. How to clean and preprocess real-world datasets using Python.
+2. How to perform exploratory data analysis to identify pricing patterns.
+3. How to build KPIs and dashboards in Power BI.
+4. How to convert data insights into meaningful business recommendations.
+5. How to document and present a complete data analytics project.
+
+
+Challenges Faced:
+1. Handling inconsistent column names and data formats.
+2. Understanding price inflation calculations.
+3. Designing clear and meaningful dashboards.
+4. Learning how to communicate insights effectively.
+
+
+Conclusion:
+This project helped me understand the complete data analytics workflow from raw data to insights.
+It strengthened my analytical thinking, visualization skills, and ability to communicate data-driven insights.
+
